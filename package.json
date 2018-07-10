@@ -1,0 +1,23 @@
+{
+  "name": "contrb-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Contrb/Contrb-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Contrb/Contrb-API/issues"
+  },
+  "homepage": "https://github.com/Contrb/Contrb-API#readme",
+  "dependencies": {
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2"
+  }
+}
